@@ -24,3 +24,7 @@ Microsoft Visual Studio Community 2022 - Version 17.8.0
 
 
 Desenvolvedora: Avany Souza
+
+
+![image](https://github.com/avanysouza/CalculoIMC/assets/118459101/6a1d09d8-16b0-4fe2-a8ac-2ba029d39e00)
+
